@@ -1,1 +1,1 @@
-# smarty_pamts
+# smarty_pants
